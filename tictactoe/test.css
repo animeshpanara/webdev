@@ -1,0 +1,21 @@
+*{
+	text-align: center;
+	box-sizing: border-box;
+}
+
+img{
+
+	width: 150px;
+	height: 150px;
+	max-width: 150px;
+	max-height: 150px;
+	border: 2px solid black;
+}
+
+input{
+	margin-right: 10px;
+}
+
+p{
+	font-size: 3em;
+}
